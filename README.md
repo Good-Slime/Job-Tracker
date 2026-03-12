@@ -220,16 +220,16 @@ VITE_API_URL=http://localhost:5000
 
 ## Authentication
 
-POST /v1/signup
-POST /v1/login
-POST /v1/logout
+- POST /v1/signup
+- POST /v1/login
+- POST /v1/logout
 
 ## Applications
 
-GET /v2/applications
-POST /v2/applications
-PUT /v2/applications/:id
-DELETE /v2/applications/:id
+- GET /v2/applications
+- POST /v2/applications
+- PUT /v2/applications/:id
+- DELETE /v2/applications/:id
 
 ---
 
